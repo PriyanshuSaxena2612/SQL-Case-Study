@@ -5,4 +5,6 @@
 ### Here's the table you can use to navigate through the solutions:
 | Serial No. | Link |
 | ----------- | ----------- |
-| 1 | [Danny's Diner SQL Case Study]([https://www.example.com](https://github.com/PriyanshuSaxena2612/SQL-Case-Study/tree/main/Danny's%20Diner%20SQL%20Case%20Study)) |
+| 1 | [Danny's Diner SQL Case Study](https://github.com/PriyanshuSaxena2612/SQL-Case-Study/tree/main/Danny's%20Diner%20SQL%20Case%20Stud) |
+
+
